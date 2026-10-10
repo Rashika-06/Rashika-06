@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I'm Rashika Patil, a Computer Science Engineering student who enjoys turning ideas into practical projects and discovering how technology can solve real-world problems.<br><br>My journey in technology is driven by curiosity, creativity, and a passion for learning by building. I'm developing my skills in Java, C, HTML, CSS, and MySQL, with a growing focus on Java programming, problem-solving, and building a strong foundation in software development.<br><br>I've worked on projects such as SplitEasy, a bill-splitting application, a personal developer portfolio, and a Seasonal Agriculture Performance Analysis project. These experiences have helped me explore application development, data visualization, and the process of turning concepts into working solutions.<br><br>I'm also interested in Artificial Intelligence and Machine Learning and enjoy exploring how intelligent systems can make applications more useful and efficient. I'm particularly interested in understanding how Java can be integrated with AI to develop practical, real-world applications.<br><br>I believe the best way to learn technology is to experiment, solve problems, and keep improving. Every project gives me an opportunity to learn something new, overcome challenges, and become a better developer.<br><br>My goal is to grow into a skilled software engineer with a strong foundation in programming and problem-solving, while exploring opportunities in AI-powered application development.<br><br>Still learning. Still building. Still solving problems. And getting better with every commit.
 
-<!--
-**Rashika-06/Rashika-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashika-patil-169a52353/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rashika Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashikapatil666@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rashika-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rashika-06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rashika-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Rashika-06&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
